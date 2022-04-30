@@ -1,0 +1,8 @@
+WS2812FX
+
+Parts list:
+- Kit ESP8266:	https://shp.ee/438nkdt
+- Led WS2812B:	https://shp.ee/ijtur83
+- Sound sensor:	https://shp.ee/unq9pz3
+
+Resource: https://github.com/aemaker/WS2812FX
